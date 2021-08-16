@@ -1,0 +1,411 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="strangecranium.com" resolutions="1x" timestamp="1628713177105">
+  <folder name="css">
+    <file name="site_global.css" crc="316204400"/>
+    <file name="index.css" crc="502724931" ref="index"/>
+    <file name="iefonts_index.css" crc="118146121" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="jason-howland.jpg" crc="303837469" seo="true" mt="1520455454000"/>
+    <file name="myles-turney-b-w.jpg" crc="273042217" seo="true" mt="1519494608000"/>
+    <file name="takeshi-kawana-b-w.jpg" crc="156832117" seo="true" mt="1519494542000"/>
+    <file name="isato-shima.jpg" crc="3854468138" seo="true" mt="1520455454000"/>
+    <file name="strange-cranium-gear-list-2018-final.pdf" crc="4283607149" seo="true" mt="1519142965000"/>
+    <file name="bill-jay-stein-b-w-2.jpg" crc="527173777" seo="true" mt="1520455454000"/>
+    <file name="hiro-lido-b-w.jpg" crc="325373298" seo="true" mt="1520455454000"/>
+    <file name="chris-petti-b-w.jpg" crc="508101137" seo="true" mt="1520455454000"/>
+    <file name="james-olmstead.jpg" crc="4140643219" seo="true" mt="1520455454000"/>
+    <file name="fuso-murase-b-w.jpg" crc="335830912" seo="true" mt="1520455454000"/>
+    <file name="dave-linnenbank-b-w.jpg" crc="4261920292" seo="true" mt="1520455454000"/>
+    <file name="max-gordon-photo-mobile.jpg" crc="529076248" seo="true" mt="1561478083000"/>
+    <file name="alexander-greenberg-mobile.jpg" crc="64606363" seo="true" mt="1561478140000"/>
+    <file name="choeng-kim-mobile.jpg" crc="97359985" seo="true" mt="1574356714000"/>
+    <file name="adam-wiggins-mobile.jpg" crc="3954072853" seo="true" mt="1574356687000"/>
+    <file name="adam-wolfe-mobile.jpeg" crc="379772323" seo="true" mt="1574356701000"/>
+    <file name="danahaynes-headshot.jpg" crc="123671300" seo="true" mt="1628038903000"/>
+    <file name="strange-cranium-hien-nguyen-500px.jpg" crc="4223301019" seo="true" mt="1628203681000"/>
+    <file name="strange-cranium-noriko-sunamoto-500px.jpg" crc="376880081" seo="true" mt="1628203667000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>index"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>index"/>
+    <file name="form_process.php" crc="260214869" ref="phone>index"/>
+    <file name="form-u9539.php" crc="3952126191" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:tablet>index:index"/>
+    <file name="form-u12660.php" crc="82887054" ref="tablet>index"/>
+    <file name="form-u7157.php" crc="3761357504" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="370179083" ref="phone>index"/>
+    <file name="strange-cranium-logo-nav.jpg" crc="126833733" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu-icon.png" crc="4081533557" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-bkg.jpg" crc="510114752" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sc-logo295x178.png" crc="419833069" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="production.png" crc="57655181" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="Strange Cranium Production arranging mixing engineering orchestration composing"/>
+    </file>
+    <file name="performance.png" crc="4187635786" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="strange cranium performance, electronic music design synth and computer programming mainbrain"/>
+    </file>
+    <file name="recording.png" crc="4250064552" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="strange cranium recording studio nyc vintage gear and rentals"/>
+    </file>
+    <file name="strange-cranium-production-image-gray.jpg" crc="4026902626" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-performance-image-gray.jpg" crc="226000241" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studioa.jpg" crc="4154981830" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="strange-cranium-studiob-2331x139.jpg" crc="3825350197" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-keys384x254.jpg" crc="137728556" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vocal-booth384x256.jpg" crc="446728474" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="billys-grammy-beautiful384x256.jpg" crc="125293310" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven2384x256.jpg" crc="106439886" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-gear384x256.jpg" crc="3993934205" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-gear2384x243.jpg" crc="280455616" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u8961.jpg" crc="74543761" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2384x161.jpg" crc="4294648629" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboards384x256.jpg" crc="3980071571" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven384x256.jpg" crc="4182768038" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studioa-crop-u8925.jpg" crc="281948048" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-285x36.jpg" crc="232556701" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-keys85x57.jpg" crc="148418618" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vocal-booth85x57.jpg" crc="145969780" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="billys-grammy-beautiful85x57.jpg" crc="231483952" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven285x57.jpg" crc="3903286417" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-gear85x57.jpg" crc="6641001" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-gear289x57.jpg" crc="145779535" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u8933.jpg" crc="274363402" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboards85x57.jpg" crc="3947914552" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven85x57.jpg" crc="361762077" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="strange-cranium-recording-image-gray.jpg" crc="3955401735" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-la-times-1484164102354-la-times-300-sq.png" crc="49803379" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sonicscooplogo.jpg" crc="226082670" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radio-city-rockettes.jpg" crc="307885219" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hiro-iida-interview-cover.jpg" crc="319809533" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snychroarts-logo.jpg" crc="93400264" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rn-signature6_1.jpg" crc="194176698" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="keyboard-mag.jpg" crc="3986082334" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-contact-image-gray.jpg" crc="91393721" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-icon.png" crc="4175769857" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tweeter-icon.png" crc="4137330712" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram-icon.png" crc="3905996031" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sc-logo.png" crc="153910010" seo="true" ref="tablet>index">
+      <caption webpage="index" alt="Strange Cranium Music Production Live Performance Recording Studio NY"/>
+    </file>
+    <file name="sc-logo2.png" crc="171886786" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt="Strange Cranium Music Production Live Performance Recording Studio NY"/>
+    </file>
+    <file name="strange-cranium-studioa2-crop-u12545.jpg" crc="199522658" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2.jpg" crc="4261694153" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-keys.jpg" crc="429126923" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vocal-booth.jpg" crc="430974985" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="billys-grammy-beautiful.jpg" crc="4147148370" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven2.jpg" crc="432343819" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-gear.jpg" crc="3934902203" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-gear2.jpg" crc="3882356886" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u12537.jpg" crc="4019181086" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u12535.jpg" crc="3815181346" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboards.jpg" crc="296347389" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven.jpg" crc="7649081" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studioa275x44.jpg" crc="12584872" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-gear2-crop-u12563.jpg" crc="256137403" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u12579.jpg" crc="4114378189" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u12565.jpg" crc="274363402" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-keys-crop-u12577.jpg" crc="4257298091" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u12571.jpg" crc="456407006" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vocal-booth-crop-u12567.jpg" crc="3786247495" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboards-crop-u12575.jpg" crc="305688993" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="billys-grammy-beautiful-crop-u12583.jpg" crc="4259100721" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven-crop-u12561.jpg" crc="67882378" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven2-crop-u12573.jpg" crc="225904850" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-gear-crop-u12569.jpg" crc="3873267050" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bill-jay-stein-b-w.jpg" crc="273917320" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dave-linnenbank-b-w.jpg" crc="4103361586" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="james-olmstead.jpg" crc="4223369147" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="isato-shima.jpg" crc="117649800" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="choeng-kim-300px.jpg" crc="457336988" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-hien-nguyen.jpg" crc="355312379" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hiro-lido-b-w.jpg" crc="323638029" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chris-petti-b-w.jpg" crc="4174955925" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuso-murase-b-w.jpg" crc="3882800115" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="max-gordon-b-w-300px.jpg" crc="37649160" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adam-wiggins-300px.jpg" crc="279033401" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-danahaynes.jpg" crc="4074939467" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jason-howland.jpg" crc="99678916" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="myles-turney-b-w.jpg" crc="4174569493" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="takeshi-kawana-b-w.jpg" crc="507678332" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alexander-greenberg-b-w-300.jpg" crc="434714693" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adam-wolfe-300px.jpg" crc="341358152" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-noriko-sunamoto.jpg" crc="385941323" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studioa2.jpg" crc="4011221856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u6061.jpg" crc="4114378189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-keys-crop-u6141.jpg" crc="4257298091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vocal-booth-crop-u6161.jpg" crc="3786247495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="billys-grammy-beautiful-crop-u5821.jpg" crc="4259100721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven2-crop-u6001.jpg" crc="225904850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-gear-crop-u5961.jpg" crc="3873267050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-vintage-gear2-crop-u6121.jpg" crc="256137403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u6081.jpg" crc="274363402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-studiob-2-crop-u6101.jpg" crc="456407006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboards-crop-u6021.jpg" crc="305688993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strange-cranium-keyboard-heaven-crop-u5981.jpg" crc="67882378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="45053700" ref="tablet>index"/>
+      <file name="index.css" crc="266724150" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="312763570" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3906319357" seo="true" mt="1628713136923" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3983096635" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="403864187" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3774159242" seo="true" mt="1628712179784" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3771695608" seo="true" mt="1628281609795" redirect="true"/>
+</manifest>
